@@ -1,0 +1,43 @@
+{
+  "name": "todarkmode",
+  "version": "1.0.0",
+  "description": "Switch from/to darkmode on macOS Mojave easily",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo -e 👍"
+  },
+  "bin": {
+    "todarkmode": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/todarkmode.git"
+  },
+  "keywords": [
+    "macos",
+    "apple",
+    "mojave",
+    "mojave-macos",
+    "mojave-os",
+    "todarkmode",
+    "switcher",
+    "mac",
+    "cli"
+  ],
+  "files": [
+    "cli.js"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "url": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/todarkmode/issues"
+  },
+  "homepage": "https://github.com/abranhe/todarkmode#readme",
+  "dependencies": {
+    "meow": "^5.0.0"
+  }
+}
