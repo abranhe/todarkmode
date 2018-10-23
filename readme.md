@@ -1,6 +1,7 @@
 <div align="center">
-<a href="https://www.npmjs.com/package/todarkmode">
-<img src="https://cdn.abranhe.com/projects/todarkmode/movie.gif"></a>
+	<a href="https://www.npmjs.com/package/todarkmode">
+		<img src="https://cdn.abranhe.com/projects/todarkmode/m.gif">
+	</a>
 	<br>
 	<br>
 	<a href="https://www.npmjs.com/package/todarkmode"><b>todarkmode</b></a>: Switch from/to dark mode on Mojave OS
