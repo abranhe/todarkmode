@@ -16,6 +16,14 @@
 	<a href="https://patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a>
 </div>
 
+### Contents
+
+- [Install](#install)
+- [CLI](#cli)
+- [Related](#related)
+- [Team](#team)
+- [License](#license)
+
 ### Install
 
 > Requires macOS Mojave or later
