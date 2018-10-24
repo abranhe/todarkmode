@@ -40,6 +40,10 @@ Switch from/to dark mode on Mojave OS
 
 ```
 
+### Related 
+
+- [dark-mode-switcher](https://github.com/jeongwhanchoi/dark-mode-switcher): Dark mode automator switcher for macOS Mojave 
+
 ### Team
 
 |[![abranhe][abranhe-i]][abranhe]|
