@@ -16,23 +16,23 @@
 	<a href="https://patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a>
 </div>
 
-### Contents
+## Contents
 
 - [Install](#install)
-- [CLI](#cli)
+- [Usage](#usage)
 - [Related](#related)
 - [Team](#team)
 - [License](#license)
 
-### Install
+## Install
 
-> Requires macOS Mojave or later
+*Requires macOS Mojave or later
 
 ```
 $ npm install todarkmode
 ```
 
-### CLI
+### Usage
 
 ```console
 Switch from/to dark mode on Mojave OS
@@ -48,21 +48,21 @@ Switch from/to dark mode on Mojave OS
 
 ```
 
-### Related 
+## Related 
 
 - [dark-mode-switcher](https://github.com/jeongwhanchoi/dark-mode-switcher): Dark mode automator switcher for macOS Mojave 
 
-### Team
+## Team
 
 |[![abranhe][abranhe-i]][abranhe]|
 | :----------------------------: |
 | [Carlos Abraham][abranhe]      |
 
 
-### License
+## License
 
 [MIT][license-link] License © [Carlos Abraham][abranhe]
 
 [license-link]: https://github.com/abranhe/todarkmode/blob/master/license
 [abranhe]: https://github.com/abranhe
-[abranhe-i]: https://avatars3.githubusercontent.com/u/21347264?s=50
+[abranhe-i]: https://api.abranhe.com/avatar?s=50
