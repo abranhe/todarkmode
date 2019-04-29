@@ -2,6 +2,8 @@
 'use strict';
 const exec = require('child_process');
 const meow = require('meow');
+
+// eslint-disable-next-line no-unused-vars
 const cli = meow(`
 	Usage:
 
@@ -45,8 +47,5 @@ const isMacOS = () => {
 	return process.platform === 'darwin';
 };
 
+// eslint-disable-next-line no-unused-expressions
 isMacOS() ? darkmode() : console.log('Papa upgrade to macOS!');
-
-// @TODO allow only OS > 18.0.0
-// const os = require('os');
-// console.log(os.release());
