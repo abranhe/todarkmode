@@ -32,6 +32,12 @@
 $ npm install todarkmode
 ```
 
+otherwise just:
+
+```
+$ npx todarkmode
+```
+
 ### Usage
 
 ```console
